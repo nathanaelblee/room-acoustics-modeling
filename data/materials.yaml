@@ -1,0 +1,15 @@
+# filename: materials.yaml
+# author: Nate Lee
+# description: Single band (500 Hz) absorption coefficients for common materials
+
+# Materials absorption coefficients at 500 Hz
+carpet: 0.06            # floor coeff
+concrete_painted: 0.04  # painted wall coeff
+concrete: 0.31
+brick_painted: 0.02     # painted brick wall coeff
+brick: 0.03             # brick wall coeff
+window_glass: 0.18
+wood: 0.10              # floor coeff
+gypsum: 0.06            # wall coeff
+acoustic_tile: 0.70     # wall/ceiling coeff
+open_space: 1.0

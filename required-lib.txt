@@ -1,0 +1,9 @@
+filename: required-lib
+author: Nate Lee
+description: the required libraries for the room acoustics modeling project
+
+Required Python Libraries
+numpy
+pyyaml
+pytest
+
